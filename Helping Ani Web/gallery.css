@@ -1,0 +1,116 @@
+@font-face { 
+    font-family: Pangolin; src: url(fonts/Pangolin-Regular.ttf); 
+}
+
+body{
+    font-family: Pangolin;
+
+    color: white;
+    background-color: rgb(255, 255, 255);
+    background-image: url(assets/backgrounds/1hd.png);
+    background-size: 100%;
+}
+
+#bodyBox{
+    background-color: rgb(0, 0, 0, 0.7);
+
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+
+    font-size: 20px;
+
+    text-align: center;
+}
+
+footer{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.7);
+    padding: 5px;
+
+    margin-left: 40%;
+    margin-right: 40%;
+
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.7);
+    padding: 5px;
+
+    border-style: solid;
+
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+footer{
+    text-align: center;
+    color: white;
+
+    background-color: rgb(0, 0, 0, 0.7);
+
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.divisors{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.divisorsSmall{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+
+.mainBox{
+    background-color: rgb(0, 0, 0, 0.7);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#secretText{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#boxLeft{
+    float: left;
+
+    background-color: rgb(0, 0, 0, 0.7);
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+    font-size: 20px;
+
+    text-align: center;
+
+    margin-left: 50px;
+}
+
+.promotionalIcons{
+    width: 7.5%;
+}
+
+.button{
+    color: white;
+}
+
+.imgGallery{
+    width: 20em;
+}

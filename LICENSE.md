@@ -4,9 +4,11 @@ CODE:
 - You can freely use any of my code.
 - You won't have to give any credit.
 
+
 MEDIA:
 - You can use any of my media (images, drawings, etc...).
 - You must give credit to me by adding the text "Lenny_Dev" with a link to any of my social media listed below.
+
 
 SOCIAL MEDIA:
 - X: https://mobile.twitter.com/lennydev_

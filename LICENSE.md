@@ -7,12 +7,8 @@ CODE:
 
 MEDIA:
 - You can use any of my media (images, drawings, etc...).
-- You must give credit to me by adding the text "Lenny_Dev" with a link to any of my social media listed below.
+- You must give credit to me by adding the text "lnlnta" with a link to any of my social media listed below.
 
 
 SOCIAL MEDIA:
-- X: https://mobile.twitter.com/lennydev_
-- YouTube: https://www.youtube.com/channel/UCCD07DneTLlsBjElzBGumvg
-- Steam: https://store.steampowered.com/publisher/lenny_dev
-- GitHub: https://github.com/Lenny-Deb
-- Itch.io: https://lenny-dev.itch.io/
+- GitHub: https://github.com/lnlnta
